@@ -114,8 +114,6 @@
             <input type="number" name="RoomNum" id="RoomNum" placeholder="Room Number">
             <label for="Ext"></label>
             <input type="number" name="Ext" id="Ext" placeholder="Ext">
-            <label for="profilephoto"></label>
-            <input type="file" name="profilephoto" id="profilephoto" placeholder="Profile Photo">
             <input type="submit" value="Add User">
             <input type="reset" value="Reset">
         </form>
